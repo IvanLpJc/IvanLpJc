@@ -47,7 +47,7 @@ Also, improvement of internal tools based on HTML, CSS, Js and Python.
 
 </p>
 
-<strong><a href="https://drive.google.com/file/d/16T4bDMx5JkL0JP2XLkzxl6o9GQKtHq7C/view?usp=sharing" target="_blank">For further information refer to my CV</a> </strong>
+<strong><a href="https://drive.google.com/file/d/16T4bDMx5JkL0JP2XLkzxl6o9GQKtHq7C/view?usp=sharing" target="_blank" rel="noopener noreferrer">For further information refer to my CV</a> </strong>
 
 <h2 align="center" style="color:white;" >🔥 GitHub Stats</h2>
 <div align="center">
