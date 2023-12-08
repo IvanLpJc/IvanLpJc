@@ -31,7 +31,7 @@ I am a passionate software developer with experience in multiple languages and t
         <td><h3 align="left">Cloud dev platform</h3></td>
         <td><a href="#"><img src="https://skillicons.dev/icons?i=firebase,appwrite&theme=dark"/></a></td>
         <td><h3 align="left">Other Tools</h3></td>
-        <td><a href="#"><img src="https://skillicons.dev/icons?i=linux,docker,heroku,nextjs,postman,postgres,py,remix,appwrite,remix&theme=dark&perline=5"/></a></td>
+        <td><a href="#"><img src="https://skillicons.dev/icons?i=linux,docker,heroku,nextjs,postman,remix,appwrite&theme=dark&perline=5"/></a></td>
     </tr>
 </table>
 
